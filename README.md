@@ -32,7 +32,7 @@ This project aims to use machine learning techniques to predict an individual's 
   ### 2. Run the ML_project.ipynb
   
 ## Contribution
-  ###If you would like to contribute to this project, please follow these guidelines:
+  ### If you would like to contribute to this project, please follow these guidelines:
 
    1. Fork the repository
    2. Create a new branch for your changes (e.g. feature/new-feature)
