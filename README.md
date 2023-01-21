@@ -18,4 +18,4 @@ This project aims to use machine learning techniques to predict an individual's 
   * Any other library as per requirement
 
 ## Data
-  The data used in this project is sourced from Kaggle and contains a total of 8600 records, each with the individual's responses to the MBTI assessment questions, as       well as the corresponding personality type.
+  The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/datasnaek/mbti-type) and contains a total of 8600 records, each with the individual's responses to the MBTI assessment questions, as       well as the corresponding personality type.
