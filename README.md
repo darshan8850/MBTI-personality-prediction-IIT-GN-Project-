@@ -4,3 +4,18 @@
 
 
 This project aims to use machine learning techniques to predict an individual's Myers-Briggs Type Indicator (MBTI) personality type based on their responses to a set of questions or other input data. The model is trained and evaluated using a Kaggle dataset of MBTI responses.
+
+
+## Dependencies
+  * Python 3.x
+  * pandas
+  * scikit-learn
+  * numpy
+  * matplotlib
+  * seaborn
+  * nltk
+  * sklearn
+  * Any other library as per requirement
+
+## Data
+  The data used in this project is sourced from Kaggle and contains a total of 8600 records, each with the individual's responses to the MBTI assessment questions, as       well as the corresponding personality type.
